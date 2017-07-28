@@ -14,15 +14,15 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
+  name: Duy Anh Le (Andre Le)
   title: Java Developer
   address: Oxford, OH, USA
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
+  email: leduyanh1011998@gmail.com
+  link: https://andre-le.github.io/portfolio/
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: andre-le
+  linkedin: anh-le-9a908b9a
+  twitter:
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
@@ -50,26 +50,26 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
+      organization: Miami University
+      location: Oxford, Ohio, USA
       degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      major: Computer Science
+      started: 2016
+      duration: (2016 - 2020)
+      description: <b>GPA:</b> 4.0
   languages:
     - language1:
-      name: Chinese
+      name: Vietnamese
       proficiency: Native
     - language2:
       name: English
       proficiency: Professional
     - language3:
-      name: Japanese
+      name: French
       proficiency: Limit
   programmingSkills:
     - skill1:
-      name: HTML
+      name: HTML5/CSS
       percentage: 100%
     - skill2:
       name: Bootstrap
@@ -83,5 +83,3 @@ author:
     - skill5:
       name: Java/Java EE
       percentage: 90%
-
-theme: jekyll-theme-cayman
