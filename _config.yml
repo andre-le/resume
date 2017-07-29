@@ -28,26 +28,26 @@ author:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Onaclover Technology Joint Stock Company
+      location: Hanoi, Vietnam
+      title: Intern, Backend Developer
+      started: 2017
+      duration: Summer 2017
+      description: Developed WeFit – an application that help users schedule fitness class and read articles about fitness:
+        <ul>
+      <li>Created a CMS written in Elixir for the marketing team to write, edit and publish articles, blogs, etc.
+      <li>Made it more convenient and sufficient for the Marketers; reduced operation time.</li></li>
+      <li>Initialized a first step to handle SSO within WeFit productions.
+      <li>Made Google Firebase Authentication a CAS Server, control the flow between Firebase and the apps.</li></li>
+      <li>Added the new functionality email verification and forgot password (reset password) using Firebase.</li>
+      </ul>
     - work2:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
+      company: Miami University Housing, Dining, Recreation, and Business Services
+      location: Miami University - Oxford, OH, USA
+      title: Web Assistant
       started: 2012
       duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: Created more categories page and fixed a lot of bugs in the Miami Bookstore Website.
   educationHistory:
     - education1:
       organization: Miami University
@@ -56,7 +56,7 @@ author:
       major: Computer Science
       started: 2016
       duration: (2016 - 2020)
-      description: <b>GPA:</b> 4.0
+      description: <h4><b>GPA:</b> 4.0</h4><p>President's List (all semesters)</p>
   languages:
     - language1:
       name: Vietnamese
@@ -70,16 +70,19 @@ author:
   programmingSkills:
     - skill1:
       name: HTML5/CSS
-      percentage: 100%
+      percentage: 80%
     - skill2:
       name: Bootstrap
-      percentage: 90%
+      percentage: 70%
     - skill3:
       name: JavaScript
       percentage: 70%
     - skill4:
-      name: AngularJS
-      percentage: 70%
+      name: JQuery
+      percentage: 50%
     - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: Java
+      percentage: 85%
+    - skill6:
+      name: Elixir/Phoenix
+      percentage: 80%
