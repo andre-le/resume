@@ -22,7 +22,6 @@ author:
   weibo:
   github: andre-le
   linkedin: anh-le-9a908b9a
-  twitter:
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
@@ -33,13 +32,13 @@ author:
       title: Intern, Backend Developer
       started: 2017
       duration: Summer 2017
-      description: Developed WeFit, an application that help users schedule fitness class and read articles about fitness.<ul><li>Created a CMS written in Elixir for the marketing team to write, edit and publish articles, blogs, etc.<ul><li>Made it more convenient and sufficient for the Marketers; reduced operation time.</li></ul></li><li>Initialized a first step to handle SSO within WeFit productions.<ul><li>Made Google Firebase Authentication a CAS Server, control the flow between Firebase and the apps.</li><ul></li><li>Added the new functionality email verification and forgot password (reset password) using Firebase.</li></ul>
+      description: Developed WeFit, an application that help users schedule fitness class and read articles about fitness.<ul><li>Created a CMS written in Elixir for the marketing team to write, edit and publish articles, blogs, etc.<ul><li>Made it more convenient and sufficient for the Marketers; reduced operation time.</li></ul></li><li>Initialized a first step to handle SSO within WeFit productions.<ul><li>Made Google Firebase Authentication a CAS Server, control the flow between Firebase and the apps.</li></ul></li><li>Added the new functionality email verification and forgot password (reset password) using Firebase.</li></ul>
     - work2:
       company: Miami University Housing, Dining, Recreation, and Business Services
       location: Miami University - Oxford, OH, USA
       title: Web Assistant
-      started: 2012
-      duration: (2012 - 2014)
+      started: 2017
+      duration: Apr. 2017 - Present
       description: Created more categories page and fixed a lot of bugs in the Miami Bookstore Website.
   educationHistory:
     - education1:
