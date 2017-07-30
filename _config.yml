@@ -15,7 +15,7 @@ exclude: [vendor]
 # Author settings
 author:
   name: Duy Anh Le (Andre Le)
-  title: Java Developer
+  title: Software Engineer
   address: Oxford, OH, USA
   email: leduyanh1011998@gmail.com
   link: https://andre-le.github.io/portfolio/
