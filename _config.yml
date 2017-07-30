@@ -33,7 +33,7 @@ author:
       title: Intern, Backend Developer
       started: 2017
       duration: Summer 2017
-      description: Developed WeFit – an application that help users schedule fitness class and read articles about fitness:
+      description: Developed WeFit, an application that help users schedule fitness class and read articles about fitness:
       <ul><li>Created a CMS written in Elixir for the marketing team to write, edit and publish articles, blogs, etc.
       <ul><li>Made it more convenient and sufficient for the Marketers; reduced operation time.</li></ul></li>
       <li>Initialized a first step to handle SSO within WeFit productions.
